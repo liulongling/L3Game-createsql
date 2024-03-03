@@ -44,11 +44,11 @@ public class RunCreateSql {
      * }
      *
      */
-    private static final String dbOriginalPath = "D:\\liulongling\\work\\github\\L3Game\\tools\\config\\dbm";
+    private static final String dbOriginalPath = "D:\\liulongling\\work\\github\\L3Game-createsql\\config\\dbm";
     /**
      * 写入sql路径 必须
      */
-    private static final String dbTargetPath = "D:\\liulongling\\work\\github\\L3Game\\tools\\config\\sql";
+    private static final String dbTargetPath = "D:\\liulongling\\work\\github\\L3Game-createsql\\config\\sql";
     /**
      * sql文件路径 必须
      */
